@@ -1,5 +1,11 @@
 This project was bootstrapped with [DHIS2 Application Platform](https://github.com/dhis2/app-platform).
 
+## Project objective
+this project has been created by Arafat ALKHSHBI to demonstrate the required task assigned for the intro course of Dhis2 web app development.
+This project was created to do the following: 
+  - Reading data elements and show more details or delete dataelement
+  - Reading interpretations and editing or deleting them.
+
 ## Available Scripts
 
 In the project directory, you can run:
