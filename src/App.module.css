@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+
+.aside {
+    width: 200px;
+    min-height: 100vh;
+    padding-top: 20px;
+}
+
+.section {
+    flex-grow: 1;
+    min-height: 100vh;
+    padding: 26px 16px 0;
+    background: #f0f0f0;
+}
+
+.alert{
+    bottom: 0;
+    left: 0;
+    padding-left: 16px;
+    position: fixed;
+    width: 100%
+}
